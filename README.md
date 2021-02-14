@@ -1,7 +1,7 @@
 # Audrey Bound
 
 
-*Hi*, I’m Audrey!
+**Hi**, I’m Audrey!
 
 + I have extensive experience building engaging frontend user experiences in React. The projects I have designed solve real world problems, and I try to write beautiful, efficient code.
 
