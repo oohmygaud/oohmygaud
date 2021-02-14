@@ -16,5 +16,5 @@
 + I love learning about the latest technologies, and I try to stay ahead of the learning curve of programming languages, frameworks, and libraries! In 2018, I attended the **Consensys Academy** for Ethereum SmartContract development in Solidity, thanks to a full scholarship from Consensys.
 
 
-Interested in working with me? I'm available for contract via [https://NetProphet.Tech](Net Prophet Technologies), or you can
+Interested in working with me? I'm available for contract via [Net Prophet Technologies](https://NetProphet.Tech), or you can
 get in touch about your full-time software development roles - Remote only, please, and no recruiters! 
